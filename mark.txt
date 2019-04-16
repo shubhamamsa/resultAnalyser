@@ -1,0 +1,495 @@
+9190701    AAKARSHIT SINGH                    M  301 090  A1   041 049  C2   042 082  A2  043 059  C2  083 075  C1  048 076  B1    A1   A2   A1     PASS         
+9190702    ABHIJEET MANHAS                    M  301 095  A1   041 098  A1   042 095  A1  043 098  A1  083 095  A1  048 084  A2    A1   A2   A1     PASS         
+9190703    ABHISHEK KUMAR VISHWAKARMA         M  301 094  A1   041 096  A1   042 095  A1  043 084  A2  083 094  A1  048 072  B2    A1   A2   A1     PASS         
+9190704    ADITYA KUMAR SINGH                 M  301 094  A1   041 096  A1   042 092  A1  043 092  A1  083 095  A1  048 080  A2    A1   A2   A1     PASS         
+9190705    AKSHAY                             M  301 072  B2   041 075  B1   042 080  B1  043 077  B1  044 073  C1  048 078  B1    A1   A2   A2     PASS         
+9190706    AJAY KUMAR                         M  301 093  A1   041 043  D1   042 069  B2  043 061  C2  083 050  D2  048 070  B2    A1   A2   A2     PASS         
+9190707    ANIKET SAMANTA                     M  301 078  B1   041 064  B2   042 087  A2  043 073  B1  083 069  C2  048 071  B2    A1   A2   A1     PASS         
+9190708    ANIMESH YADAV                      M  301 058  C2   041 042  D1   042 067  C1  043 049  D2  083 058  D1  048 057  D1    A1   A2   A2     PASS         
+9190709    ANKIT KUMAR                        M  301 081  B1   041 095  A1   042 089  A2  043 082  A2  083 087  B1  048 069  B2    A1   A2   A1     PASS         
+9190710    ANMOL SHARMA                       M  301 074  B2   041 055  C1   042 075  B1  043 052  D1  083 072  C1  048 069  B2    A1   A1   A2     PASS                                                                                                                                                                          
+9190711    ARJUN PUNDIR                       M  301 079  B1   041 080  B1   042 088  A2  043 072  B2  083 081  B2  048 074  B2    A1   A2   A2     PASS         
+9190712    ASHISH KUMAR PAL                   M  301 088  A2   041 095  A1   042 092  A1  043 090  A2  083 098  A1  048 082  A2    A1   A2   A1     PASS         
+9190713    AYUSH KUMAR SINGH                  M  301 078  B1   041 056  C1   042 072  B2  043 051  D2  083 069  C2  048 080  A2    A1   A2   A2     PASS         
+9190714    BHUVESH KUMAR TIWARI               M  301 078  B1   041 042  D1   042 060  D1  043 066  C1  083 060  D1  048 061  C2    A1   A1   A2     PASS         
+9190715    BISWA NARAYAN SAHOO                M  301 084  A2   041 070  B2   042 088  A2  043 068  B2  083 075  C1  048 070  B2    A1   A2   A2     PASS         
+9190716    C MONICA                           F  301 093  A1   041 081  B1   042 093  A1  043 072  B2  044 082  B1  048 092  A1    A1   A1   A1     PASS         
+9190717    HARSH KUMAR                        M  301 069  C1   041 073  B1   042 083  A2  043 075  B1  083 077  C1  048 074  B2    A1   A2   A2     PASS         
+9190718    HIMESH MISHRA PIYUSH               M  301 090  A1   041 077  B1   042 087  A2  043 065  C1  083 075  C1  048 069  B2    A1   A1   A1     PASS         
+9190719    JAI PRAKASH YADAV                  M  301 080  B1   041 095  A1   042 095  A1  043 086  A2  083 090  A2  048 072  B2    A1   A2   A1     PASS         
+9190720    KAVITA SHARMA                      F  301 078  B1   041 084  A2   042 095  A1  043 078  B1  083 083  B1  048 074  B2    A1   A1   A2     PASS         
+                                                                                                                                                                 
+9190721    KISHOR SINGH                       M  301 093  A1   041 057  C1   042 070  B2  043 075  B1  044 069  C1  048 072  B2    A1   A2   A2     PASS         
+9190722    LUCKY YADAV                        M  301 095  A1   041 072  B2   042 082  A2  043 063  C1  083 080  B2  048 090  A1    A1   A1   A2     PASS         
+9190723    MANSI SHARMA                       F  301 090  A1   041 074  B1   042 086  A2  043 084  A2  083 081  B2  048 070  B2    A1   A2   A1     PASS         
+9190724    MAYANK MATWA                       M  301 087  A2   041 084  A2   042 089  A2  043 070  B2  083 092  A2  048 074  B2    A1   A2   A2     PASS         
+9190725    MONIKA YADAV                       F  301 067  C1   041 059  C1   042 076  B1  043 061  C2  044 066  C2  048 076  B1    A1   A2   A2     PASS         
+9190726    NIKHIL                             M  301 078  B1   041 076  B1   042 083  A2  043 077  B1  083 082  B2  048 079  B1    A1   A1   A2     PASS         
+9190727    NIKHIL MISHRA                      M  301 095  A1   041 095  A1   042 092  A1  043 077  B1  083 079  B2  048 071  B2    A1   A2   A1     PASS         
+9190728    NIKHIL YADAV                       M  301 093  A1   041 052  C2   042 076  B1  043 061  C2  083 065  C2  048 062  C2    A1   A1   A2     PASS         
+9190729    PANKAJ KUMAR MAURYA                M  301 071  C1   041 075  B1   042 088  A2  043 065  C1  083 079  B2  048 079  B1    A1   A2   A1     PASS         
+9190730    PREETI SINGH                       F  301 089  A1   041 052  C2   042 051  D2  043 054  D1  083 076  C1  048 066  C1    A1   A1   A2     PASS         
+                                                                                                                                                                 
+9190731    PRIYANKA                           F  301 087  A2   041 049  C2   042 080  B1  043 059  C2  083 064  D1  048 072  B2    A1   A2   A2     PASS         
+9190732    PRIYANKA KANYAL                    F  301 088  A2   041 044  D1   042 080  B1  043 072  B2  044 084  A2  048 082  A2    A1   A2   A1     PASS         
+9190733    RAM MOHAN MISHRA                   M  301 088  A2   041 074  B1   042 087  A2  043 067  B2  083 081  B2  048 079  B1    A1   A1   A2     PASS         
+9190734    ROHIT                              M  301 093  A1   041 084  A2   042 092  A1  043 067  B2  044 080  B1  048 075  B1    A1   A2   A1     PASS         
+9190735    SACHIN KUMAR SALUJA                M  301 057  C2   041 051  C2   042 064  C1  043 062  C2  083 067  C2  048 062  C2    A1   A2   A2     PASS         
+9190736    SAKSHI SINGH                       F  301 095  A1   041 084  A2   042 089  A2  043 080  B1  083 083  B1  048 076  B1    A1   A1   A1     PASS         
+9190737    SARANSH                            M  301 084  A2   041 095  A1   042 095  A1  043 095  A1  044 088  A2  048 068  C1    A1   A2   A1     PASS         
+9190738    SHIVENDRA PRATAP                   M  301 090  A1   041 080  B1   042 095  A1  043 095  A1  083 087  B1  048 071  B2    A1   A1   A1     PASS         
+9190739    SIMRAN BANO                        F  301 079  B1   041 044  D1   042 067  C1  043 051  D2  083 055  D2  048 063  C2    A1   A2   A2     PASS         
+9190740    SIMRON SAHU                        F  301 093  A1   041 095  A1   042 095  A1  043 092  A1  044 090  A1  048 078  B1    A1   A2   A1     PASS         
+                                                                                                                                                                 
+9190741    SNEH SUMAN                         M  301 090  A1   041 079  B1   042 091  A1  043 081  A2  083 087  B1  048 068  C1    A1   A1   A2     PASS         
+9190742    SNEHA JHA                          F  301 095  A1   041 084  A2   042 083  A2  043 092  A1  044 086  A2  048 071  B2    A1   A2   A1     PASS         
+9190743    SOURABH CHOUDHARY                  M  301 093  A1   041 042  D1   042 071  B2  043 085  A2  083 076  C1  048 070  B2    A1   A1   A2     PASS         
+9190744    SUMIRAN SINGH                      F  301 081  B1   041 090  A2   042 095  A1  043 084  A2  083 092  A2  048 065  C1    A1   A2   A1     PASS         
+9190745    SUNIDHI SINGH                      F  301 093  A1   041 059  C1   042 078  B1  043 062  C2  083 072  C1  048 068  C1    A1   A1   A2     PASS         
+9190746    VARUN MALHOTRA                     M  301 088  A2   041 063  B2   042 080  B1  043 065  C1  083 089  A2  048 076  B1    A1   A2   A2     PASS         
+9190747    ADITI SINGH                        F  301 078  B1   302 092  A1   042 088  A2  043 077  B1  044 078  B2  048 077  B1    A1   A1   A1     PASS         
+9190748    AJIT SINGH SHEKHAWAT               M  301 084  A2   041 079  B1   042 080  B1  043 067  B2  044 070  C1  048 067  C1    A1   A2   A2     PASS         
+9190749    AKANKSHA SINGH                     F  301 078  B1   302 059  C2   042 065  C1  043 051  D2  044 052  D2  048 064  C1    A1   A2   A2     PASS         
+9190750    AKASH KUMAR DWIVEDI                M  301 072  B2   041 042  D1   042 076  B1  043 061  C2  044 066  C2  048 060  C2    A1   A2   A2     PASS         
+                                                                                                                                                                 
+9190751    AKSHAY GILL                        M  301 095  A1   041 095  A1   042 095  A1  043 095  A1  044 098  A1  048 081  A2    A1   A1   A1     PASS         
+9190752    ANJALI KUMARI                      F  301 095  A1   302 072  B2   042 071  B2  043 067  B2  044 074  B2  048 074  B2    A1   A1   A2     PASS         
+9190753    ANJALI SANGWAN                     F  301 069  C1   302 088  A2   042 074  B2  043 071  B2  044 073  C1  048 068  C1    A1   A1   A2     PASS               
+
+9190754    ARPITA BISWAS                      F  301 088  A2   302 075  B2   042 091  A1  043 064  C1  044 075  B2  048 074  B2    A1   A1   A1     PASS         
+9190755    ASHUTOSH KUMAR RAI                 M  301 093  A1   302 083  A2   042 072  B2  043 061  C2  044 076  B2  048 075  B1    A1   A1   A1     PASS         
+9190756    BALWANT SINGH SOLANKI              M  301 074  B2   041 067  B2   042 088  A2  043 077  B1  044 067  C2  048 081  A2    A1   A1   A1     PASS         
+9190757    DEEPIKA                            F  301 095  A1   302 096  A1   042 095  A1  043 095  A1  044 090  A1  048 083  A2    A1   A1   A1     PASS         
+9190758    HARSH TIWARI                       M  301 075  B2   302 076  B2   042 064  C1  043 055  D1  044 075  B2  048 068  C1    A1   A1   A1     PASS         
+9190759    JYOTI KUMARI                       F  301 078  B1   302 071  C1   042 071  B2  043 076  B1  044 086  A2  048 080  A2    A1   A2   A1     PASS         
+9190760    KAVYA RAVINDRAN                    F  301 095  A1   302 089  A1   042 088  A2  043 076  B1  044 076  B2  048 078  B1    A1   A1   A1     PASS         
+                                                                                                                                                                 
+9190761    LAALIMA                            F  301 078  B1   302 067  C1   042 074  B2  043 053  D1  044 059  D1  048 074  B2    A1   A2   A2     PASS         
+9190762    MADHUR SINGH                       M  301 055  D1   302 061  C2   042 055  D1  043 062  C2  044 072  C1  048 065  C1    A1   A1   A2     PASS         
+9190763    MAHIMA MISHRA                      F  301 093  A1   302 080  B1   042 074  B2  043 061  C2  044 070  C1  048 072  B2    A1   A2   A1     PASS         
+9190764    MANISHA YADAV                      F  301 093  A1   041 087  A2   042 090  A1  043 063  C1  044 085  A2  048 081  A2    A1   A2   A1     PASS         
+9190765    MOHIT KUMAR NAMDEO                 M  301 059  C2   302 072  B2   042 071  B2  043 059  C2  044 052  D2  048 080  A2    A1   A1   A2     PASS         
+9190766    MONIKA YADAV                       F  301 085  A2   302 079  B1   042 069  B2  043 051  D2  044 062  C2  048 080  A2    A1   A2   A2     PASS         
+9190767    NEETHU SABU                        F  301 082  B1   302 076  B2   042 089  A2  043 074  B1  044 083  B1  048 078  B1    A1   A1   A1     PASS         
+9190768    NEHA SILORI                        F  301 074  B2   302 097  A1   042 076  B1  043 061  C2  044 067  C2  048 076  B1    A1   A2   A2     PASS         
+9190769    NIKKI GUPTA                        F  301 093  A1   302 075  B2   042 075  B1  043 054  D1  044 058  D1  048 070  B2    A1   A1   A1     PASS         
+9190770    NITISH KUMAR YADAV                 M  301 081  B1   302 087  A2   042 095  A1  043 076  B1  044 088  A2  048 083  A2    A1   A2   A1     PASS         
+                                                                                                                                                                 
+9190771    PIYUSH KUMAR                       M  301 084  A2   302 094  A1   042 075  B1  043 076  B1  044 075  B2  048 079  B1    A1   A2   A1     PASS         
+9190772    POOJA CHOUDHARY                    F  301 088  A2   302 070  C1   042 069  B2  043 054  D1  044 053  D2  048 073  B2    A1   A1   A1     PASS         
+9190773    PRABHAT KUMAR OJHA                 M  301 078  B1   302 080  B1   042 095  A1  043 075  B1  044 084  A2  048 077  B1    A1   A1   A1     PASS         
+9190774    RACHNA RAJENDRA VIDHATE            F  301 087  A2   302 095  A1   042 081  B1  043 067  B2  044 077  B2  048 079  B1    A1   A1   A1     PASS         
+9190775    RAHUL RAUT                         M  301 089  A1   302 048  D1   042 067  C1  043 062  C2  044 064  C2  048 059  C2    A1   A2   A1     PASS         
+9190776    RIYA NAKOTI                        F  301 075  B2   302 081  B1   042 089  A2  043 071  B2  044 082  B1  048 081  A2    A1   A1   A1     PASS         
+9190777    SALONI PRIYA                       F  301 078  B1   302 081  B1   042 063  C2  043 054  D1  044 063  C2  048 080  A2    A1   A2   A1     PASS         
+9190778    SANGEET NANDA PARIDA               F  301 089  A1   041 060  C1   042 062  C2  043 053  D1  044 051  D2  048 060  C2    A1   A1   A2     PASS         
+9190779    SAURABH NARAYAN                    M  301 075  B2   302 072  B2   042 091  A1  043 072  B2  044 086  A2  048 083  A2    A1   A1   A1     PASS         
+9190780    SHIVAM                             M  301 080  B1   302 065  C2   042 089  A2  043 093  A1  044 080  B1  048 080  A2    A1   A2   A1     PASS         
+                                                                                                                                                                 
+9190781    SIDHARTH K S                       M  301 093  A1   302 071  C1   042 093  A1  043 075  B1  044 075  B2  048 084  A2    A1   A2   A1     PASS         
+9190782    SMRUTI SUDHA BINOD                 F  301 078  B1   302 090  A1   042 082  A2  043 069  B2  044 084  A2  048 083  A2    A1   A1   A1     PASS         
+9190783    SONAM SINGH                        F  301 063  C2   041 053  C2   042 062  C2  043 057  D1  044 055  D1  048 070  B2    A1   A1   A1     PASS         
+9190784    SONU KUMARI                        F  301 093  A1   302 093  A1   042 091  A1  043 074  B1  044 084  A2  048 072  B2    A1   A2   A1     PASS         
+9190785    SUNAINA RANA                       F  301 078  B1   302 069  C1   042 087  A2  043 062  C2  044 072  C1  048 091  A1    A1   A1   A1     PASS         
+9190786    SWATI MISHRA                       F  301 088  A2   041 049  C2   042 081  B1  043 074  B1  044 076  B2  048 086  A2    A1   A1   A1     PASS         
+9190787    SAMEER KUMAR                       M  301 093  A1   302 086  A2   042 095  A1  043 090  A2  044 088  A2  048 077  B1    A1   A2   A1     PASS         
+9190788    AASHAY KUMAR                       M  301 065  C1   041 033  D2   042 063  C2  043 051  D2  083 063  D1  048 073  B2    A1   A1   A2     PASS         
+9190789    ANCHAL BISHT                       F  301 079  B1   302 093  A1   041 073  B1  042 086  A2  043 080  B1  048 084  A2    A1   A1   A1     PASS         
+9190790    ANKIT JHA                          M  301 088  A2   041 078  B1   042 087  A2  043 084  A2  083 088  A2  048 070  B2    A1   A1   A1     PASS         
+                                                                                                                                                                 
+9190791    ANKIT KUMAR                        M  301 055  D1   041 033  D2   042 079  B1  043 068  B2  083 084  B1  048 060  C2    A1   A2   A1     PASS         
+9190792    ANKUR SINGH                        M  301 080  B1   041 095  A1   042 095  A1  043 095  A1  083 092  A2  048 065  C1    A1   A2   A1     PASS         
+9190793    APOORVA SINGH                      M  301 085  A2   302 062  C2   041 088  A2  042 095  A1  043 072  B2  048 060  C2    A1   A2   A1     PASS         
+9190794    ARUN ATTRI                         M  301 079  B1   302 082  B1   041 067  B2  042 078  B1  043 076  B1  048 083  A2    A1   A1   A1     PASS         
+9190795    ASHA                               F  301 093  A1   041 090  A2   042 087  A2  043 083  A2  083 081  B2  048 077  B1    A1   A1   A1     PASS         
+9190796    ASHISH KRISHNA                     M  301 089  A1   041 066  B2   042 085  A2  043 065  C1  083 085  B1  048 091  A1    A1   A2   A1     PASS         
+9190797    ASHISH KUMAR                       M  301 093  A1   041 057  C1   042 094  A1  043 079  B1  083 088  A2  048 082  A2    A1   A2   A1     PASS         
+9190798    AYUSH ARYAN DUBEY                  M  301 097  A1   041 068  B2   042 089  A2  043 076  B1  083 087  B1  048 076  B1    A1   A2   A1     PASS         
+9190799    AYUSH KUMAR                        M  301 093  A1   041 043  D1   042 067  C1  043 062  C2  083 070  C2  048 076  B1    A1   A1   A2     PASS         
+9190800    CHANDRAVEER PANWAR                 M  301 086  A2   041 035  D2   042 072  B2  043 060  C2  083 066  C2  048 069  B2    A1   A1   A2     PASS         
+                                                                                                                                                                 
+9190801    DEEPTI KUMARI                      F  301 088  A2   041 077  B1   042 080  B1  043 070  B2  083 092  A2  048 080  A2    A1   A1   A1     PASS         
+9190802    DIVYA DASH                         F  301 087  A2   041 095  A1   042 095  A1  043 095  A1  083 093  A1  048 079  B1    A1   A1   A1     PASS         
+9190803    DIVYANSHU KUMAR                    M  301 097  A1   041 085  A2   042 095  A1  043 095  A1  083 098  A1  048 074  B2    A1   A2   A1     PASS         
+9190804    GOPAL SHARMA                       M  301 078  B1   041 069  B2   042 081  B1  043 068  B2  083 082  B2  048 073  B2    A1   A2   A2     PASS         
+9190805    HIMANSHI PARASHAR                  F  301 084  A2   041 091  A2   042 085  A2  043 081  A2  083 081  B2  048 067  C1    A1   A2   A1     PASS         
+9190806    JAYESH ANTIL                       M  301 084  A2   041 042  D1   042 073  B2  043 071  B2  083 076  C1  048 068  C1    A1   A1   A2     PASS        
+9190807    LOVEPREET                          M  301 085  A2   302 064  C2   041 047  C2  042 062  C2  043 069  B2  048 059  C2    A1   A1   A2     PASS         
+9190808    MANAS JHA                          M  301 074  B2   041 075  B1   042 079  B1  043 061  C2  083 070  C2  048 077  B1    A1   A2   A2     PASS         
+9190809    MD MANJAR EJAZ                     M  301 093  A1   041 054  C2   042 073  B2  043 062  C2  083 083  B1  048 072  B2    A1   A1   A1     PASS         
+9190810    MUSKAN MAHAPATRA                   F  301 095  A1   041 095  A1   042 095  A1  043 095  A1  083 097  A1  048 080  A2    A1   A2   A1     PASS         
+                                                                                                                                                                 
+9190811    NEELAM SINGH                       F  301 090  A1   041 061  C1   042 089  A2  043 069  B2  083 084  B1  048 081  A2    A1   A2   A1     PASS         
+9190812    PRAKRITI DEB                       F  301           041           042          043          083         048                             ABST        
+9190813    PUSHPENDRA SINGH                   M  301 086  A2   041 061  C1   042 073  B2  043 061  C2  083 081  B2  048 060  C2    A1   A2   A1     PASS         
+9190814    RAHUL CHIRANIA                     M  301 089  A1   041 094  A2   042 091  A1  043 075  B1  083 088  A2  048 070  B2    A1   A1   A1     PASS         
+9190815    RAHUL KUMAR SINGH                  M  301 083  B1   041 033  D2   042 065  C1  043 063  C1  083 068  C2  048 073  B2    A1   A1   A2     PASS         
+9190816    RAHUL THAMATTOOR                   M  301 089  A1   041 095  A1   042 095  A1  043 091  A1  083 096  A1  048 080  A2    A1   A1   A1     PASS         
+9190817    RISHIKA                            F  301 094  A1   041 074  B1   042 071  B2  043 054  D1  083 078  B2  048 071  B2    A1   A1   A1     PASS         
+9190818    ROHIT KUMAR                        M  301 095  A1   041 062  C1   042 072  B2  043 065  C1  083 087  B1  048 076  B1    A1   A2   A1     PASS         
+9190819    SACHIN YADAV                       M  301 085  A2   041 052  C2   042 089  A2  043 061  C2  083 090  A2  048 060  C2    A1   A1   A1     PASS         
+9190820    SAKET KUMAR                        M  301 095  A1   041 095  A1   042 099  A1  043 091  A1  083 090  A2  048 071  B2    A1   A1   A1     PASS         
+                                                                                                                                                                 
+9190821    SAURABH                            M  301 073  B2   302 060  C2   041 067  B2  042 079  B1  043 076  B1  048 064  C1    A1   A2   A1     PASS         
+9190822    SHRAY SHARMA                       M  301 075  B2   041 034  D2   042 065  C1  043 059  C2  083 080  B2  048 062  C2    A1   A1   A2     PASS         
+9190823    SRIKHETRA NARAYAN MISHRA           M  301 072  B2   041 049  C2   042 069  B2  043 061  C2  083 079  B2  048 071  B2    A1   A1   A1     PASS         
+9190824    SUDHA SINGH                        F  301 071  C1   041 061  C1   042 075  B1  043 066  C1  083 088  A2  048 070  B2    A1   A2   A1     PASS         
+9190825    SUDIPTA KUMAR DAS                  M  301 095  A1   302 086  A2   041 081  B1  042 093  A1  043 091  A1  048 082  A2    A1   A2   A1     PASS         
+9190826    SUMAN KUMARI                       F  301 073  B2   041 091  A2   042 083  A2  043 077  B1  083 082  B2  048 067  C1    A1   A1   A1     PASS         
+9190827    SUMIT YADAV                        M  301 093  A1   041 079  B1   042 078  B1  043 051  D2  083 084  B1  048 070  B2    A1   A1   A1     PASS         
+9190828    SUSHMITA YADAV                     F  301 081  B1   302 078  B1   041 042  D1  042 069  B2  043 062  C2  048 061  C2    A1   A2   A1     PASS         
+9190829    VAIBHAV KUMAR SINGH                M  301 070  C1   041 075  B1   042 089  A2  043 074  B1  083 080  B2  048 066  C1    A1   A1   A1     PASS         
+9190830    VIMAL PAL                          M  301 088  A2   041 090  A2   042 088  A2  043 079  B1  083 087  B1  048 066  C1    A1   A1   A1     PASS         
+                                                                                                                                                                 
+9190831    YUVRAJ MEENA                       M  301 086  A2   041 095  A1   042 086  A2  043 095  A1  083 096  A1  048 076  B1    A1   A2   A1     PASS         
+9190832    AASTHA                             F  301 095  A1   030 093  A1   041 086  A2  054 095  A1  055 077  A2  048 084  A2    A1   A1   A1     PASS         
+9190833    ABHINAV VERMA                      M  301 078  B1   030 050  D1   048 062  C2  054 044  D2  055 043  D2  041 006  E     A1   A2   A2     PASS         
+9190834    ABHISHEK ANAND                     M  301 078  B1   030 096  A1   041 090  A2  054 075  B1  055 072  B1  048 073  B2    A1   A1   A1     PASS         
+9190835    ABHISHEK KUMAR                     M  301 093  A1   030 083  B1   041 073  B1  054 090  A2  055 061  B2  048 072  B2    A1   A1   A1     PASS         
+9190836    ASHISH KUMAR                       M  301 081  B1   030 086  A2   041 075  B1  054 088  A2  055 076  A2  048 088  A1    A1   A2   A2     PASS         
+9190837    BHUPESH KUMAR                      M  301 095  A1   030 099  A1   041 095  A1  054 095  A1  055 086  A1  048 092  A1    A1   A2   A1     PASS         
+9190838    DEEPAK SINGH                       M  301 086  A2   030 058  C2   041 084  A2  054 065  C1  055 055  C1  048 087  A1    A1   A1   A2     PASS         
+9190839    GAYATRI PATEL                      F  301 084  A2   030 064  C1   041 033  D2  054 054  D1  055 054  C2  048 073  B2    A1   A1   A2     PASS         
+9190840    HARSHIT SINGH CHAUHAN              M  301 083  B1   030 085  A2   041 066  B2  054 064  C1  055 077  A2  048 083  A2    A1   A2   A1     PASS         
+                                                                                                                                                                 
+9190841    KAMALENDU ACHARYA                  M  301 081  B1   030 050  D1   041 033  D2  054 067  B2  055 048  D1  048 074  B2    A1   A1   A1     PASS         
+9190842    KAMLESH SINGH                      M  301 067  C1   030 041  D2   048 068  C1  054 044  D2  055 055  C1  041 013  E     A1   A2   B1     PASS         
+9190843    LAXMI PRIYA                        F  301 070  C1   030 044  D2   041 043  D1  054 058  C2  055 053  C2  048 069  B2    A1   A1   B1     PASS         
+9190844    PRABHAT KUMAR TRIPATHI             M  301 058  C2   030 041  D2   041 034  D2  054 060  C1  055 052  C2  048 070  B2    A1   A1   B1     PASS         
+9190845    PUSHPITA SADHUKHAN                 F  301 068  C1   041 033  D2   048 060  C2  054 057  C2  055 053  C2  030 034  E     A1   A1   A2     PASS         
+9190846    RAHUL MISHRA                       M  301 078  B1   030 052  D1   041 048  C2  054 053  D1  055 048  D1  048 079  B1    A1   A2   A1     PASS         
+9190847    SHASHANK MISHRA                    M  301 078  B1   030 073  B2   041 052  C2  054 069  B2  055 072  B1  048 075  B1    A1   A2   A1     PASS         
+9190848    SHIVANI VERMA                      F  301 095  A1   030 068  C1   041 069  B2  054 073  B2  055 061  B2  048 068  C1    A1   A2   A1     PASS         
+9190849    SHRESTA KUMARI                     F  301 088  A2   030 075  B2   041 088  A2  054 091  A2  055 074  A2  048 072  B2    A1   A1   A2     PASS         
+9190850    SHRUTI SHIKHA SINGH                F  301 078  B1   030 060  C2   041 071  B2  054 072  B2  055 067  B1  048 054  D1    A1   A1   A2     PASS         
+                                                                                                                                                                 
+9190851    SNIGDHA DHUPAL                     F  301 093  A1   030 065  C1   041 033  D2  054 056  C2  055 064  B2  048 072  B2    A1   A1   A1     PASS         
+9190852    SUSHIL                             M  301 086  A2   030 095  A1   041 095  A1  054 087  A2  055 087  A1  048 074  B2    A1   A1   A1     PASS         
+9190853    TUSHAR KAIM                        M  301 078  B1   030 083  B1   041 080  B1  054 071  B2  055 084  A1  048 074  B2    A1   A1   A1     PASS         
+9190854    VIJAY SINGH                        M  301 055  D1   030 041  D2   048 059  C2  054 047  D1  055 042  D2  041 012  E     A1   A1   A2     PASS         
+9190855    DEEPU PRABHAKAR                    M  301 086  A2   302 072  B2   030 081  B1  054 060  C1  055 052  C2  048 057  D1    A1   A2   A1     PASS         
+9190856    ABHISHEK KUMAR YADAV               M  301 037  D2   302 067  C1   030 056  C2  048 052  D2  054 044  D2  055 019  E     A1   A2   A2     PASS         
+9190857    ABINASH PATTNAYAK                  M  301 078  B1   302 067  C1   030 067  C1  054 058  C2  055 056  C1  048 059  C2    A1   A1   A1     PASS         
+9190858    AKASH SHARMA                       M  301 064  C2   302 038  D2   030 043  D2  054 054  D1  055 042  D2  048 055  D1    A1   A2   B1     PASS         
+9190859    AKASH SINGH                        M  301 063  C2   302 057  D1   030 042  D2  054 053  D1  055 043  D2  048 051  D2    A1   A1   B1     PASS         
+9190860    AMANDEEP                           M  301 048  D1   302 043  D2   048 056  D1  054 046  D2  055 042  D2  030 029  E     A1   A2   B1     PASS         
+                                                                                                                                                                 
+9190861    AMISHA KUMARI                      F  301 069  C1   302 058  D1   030 093  A1  054 081  B1  055 062  B2  048 067  C1    A1   A1   A1     PASS         
+9190862    ANISH KUMAR SHARMA                 M  301 049  D1   302 055  D1   030 046  D2  054 045  D2  055 054  C2  048 062  C2    A1   A1   B1     PASS         
+9190863    ANJALI YADAV                       F  301 071  C1   302 075  B2   030 077  B1  054 071  B2  055 074  A2  048 071  B2    A1   A1   A2     PASS         
+9190864    ANKUR PANDEY                       M  301 086  A2   302 060  C2   030 073  B2  054 054  D1  055 044  D2  048 070  B2    A1   A2   B1     PASS         
+9190865    ARCHANA SINGH                      F  301 052  D1   302 065  C2   030 055  C2  054 047  D1  055 046  D1  048 060  C2    A1   A1   A2     PASS         
+9190866    ATUL KUMAR                         M  301 053  D1   302 062  C2   030 051  D1  054 064  C1  055 057  C1  048 057  D1    A1   A2   A2     PASS         
+9190867    BHARAT SINGH RAO                   M  301 087  A2   302 075  B2   030 080  B1  054 068  B2  055 055  C1  048 067  C1    A1   A1   A1     PASS         
+9190868    BHARTI KUMARI                      F  301 061  C2   302 082  B1   030 055  C2  054 056  C2  055 054  C2  048 073  B2    A1   A1   A2     PASS         
+9190869    CHANCHAL                           F  301 094  A1   302 081  B1   030 068  C1  054 057  C2  055 046  D1  048 068  C1    A1   A1   A1     PASS         
+9190870    DEEPAK CHAUHAN                     M  301 061  C2   302 059  C2   030 048  D1  048 069  B2  055 043  D2  054 028  E     A1   A2   B1     PASS         
+                                                                                                                                                                 
+9190871    HRITIKA SINGH                      F  301 085  A2   302 065  C2   030 070  B2  054 087  A2  055 053  C2  048 068  C1    A1   A2   A1     PASS         
+9190872    JOOHI KUMARI                       F  301 084  A2   302 073  B2   030 091  A2  054 079  B1  055 067  B1  048 061  C2    A1   A1   A2     PASS         
+9190873    JYOTI PALIWAL                      F  301 081  B1   302 049  D1   030 070  B2  054 061  C1  055 055  C1  048 064  C1    A1   A2   A2     PASS         
+9190874    KAJOL KUMARI                       F  301 084  A2   302 079  B1   030 061  C2  054 077  B1  055 060  B2  048 073  B2    A1   A1   A2     PASS         
+9190875    KUMARI LALITA                      F  301 074  B2   302 077  B2   030 081  B1  054 078  B1  055 061  B2  048 066  C1    A1   A2   A1     PASS         
+9190876    MAHIMA CHAUDHARY                   F  301 074  B2   302 068  C1   030 092  A1  054 060  C1  055 053  C2  048 067  C1    A1   A1   A2     PASS         
+9190877    MANOORAMA                          F  301 075  B2   302 064  C2   030 047  D1  054 054  D1  055 054  C2  048 067  C1    A1   A2   A1     PASS         
+9190878    MANSHI                             F  301 070  C1   302 062  C2   030 071  B2  054 065  C1  055 068  B1  048 069  B2    A1   A2   A2     PASS         
+9190879    MANSHU GAUR                        M  301 075  B2   302 065  C2   030 045  D2  048 070  B2  054 054  D1  055 027  E     A1   A1   A2     PASS         
+9190880    MOHIT                              M  301 053  D1   302 046  D2   030 045  D2  054 044  D2  055 043  D2  048 057  D1    A1   A1   B1     PASS         
+                                                                                                                                                                 
+9190881    NIKITA                             F  301 081  B1   302 081  B1   048 066  C1  054 044  D2  055 026  E   030 029  E     A1   A1   B1     COMP  055 030
+9190882    NISHA KUMARI YADAV                 F  301 084  A2   302 067  C1   030 091  A2  054 086  A2  055 090  A1  048 079  B1    A1   A2   B1     PASS         
+9190883    P BABU LAVANYA                     F  301 075  B2   302 059  C2   030 062  C1  054 089  A2  055 058  C1  048 065  C1    A1   A2   B1     PASS         
+9190884    PRATYUSH KUMAR                     M  301 084  A2   302 066  C1   030 054  C2  054 062  C1  055 075  A2  048 068  C1    A1   A1   B1     PASS         
+9190885    PREETI KUMARI                      F  301 072  B2   302 071  C1   030 061  C2  054 055  C2  055 054  C2  048 062  C2    A1   A1   B1     PASS         
+9190886    PREETY YADAV                       F  301 080  B1   302 079  B1   030 059  C2  054 064  C1  055 053  C2  048 059  C2    A1   A1   A1     PASS         
+9190887    REETIKA                            F  301 061  C2   302 078  B1   030 075  B2  054 077  B1  055 054  C2  048 070  B2    A1   A2   A1     PASS         
+9190888    RITIKA SARKAR                      F  301 086  A2   302 059  C2   030 057  C2  054 068  B2  055 055  C1  048 056  D1    A1   A2   A2     PASS         
+9190889    SANDHYA                            F  301 069  C1   302 056  D1   030 070  B2  054 056  C2  055 054  C2  048 073  B2    A1   A1   A1     PASS         
+9190890    SHALINEE JAYA                      F  301 085  A2   302 064  C2   030 061  C2  054 056  C2  055 055  C1  048 052  D2    A1   A2   A2     PASS         
+                                                                                                                                                                 
+9190891    SHIVANGI YADAV                     F  301 078  B1   302 075  B2   030 050  D1  054 053  D1  055 043  D2  048 053  D2    A1   A1   A2     PASS         
+9190892    SHIWANI SONKAR                     F  301 082  B1   302 070  C1   030 063  C1  054 057  C2  055 058  C1  048 068  C1    A1   A1   B1     PASS         
+9190893    SONIA RANI                         F  301 060  C2   302 071  C1   030 043  D2  054 053  D1  055 042  D2  048 059  C2    A1   A2   B1     PASS         
+9190894    SUMITH                             M  301 068  C1   302 053  D1   030 050  D1  054 054  D1  055 047  D1  048 057  D1    A1   A1   B1     PASS         
+9190895    YASH KUMAR                         M  301 042  D2   302 034  D2   048 054  D1  054 026  E   055 044  D2  030 021  E     A1   A2   A1     COMP  054 030
+9190896    ABHISHEK KUMAR SAH                 M  301 089  A1   002 066  B1   027 073  A2  028 081  A2  029 073  B2  048 067  C1    A1   A2   A1     PASS         
+9190897    AJAY R K                           M  301 074  B2   002 042  D1   027 061  B2  028 062  B2  029 080  A2  048 063  C2    A1   A1   B1     PASS         
+9190898    AKASH                              M  301 061  C2   002 040  D1   027 047  D1  029 057  C2  030 042  D2  048 070  B2    A1   A1   B2     PASS         
+9190899    AKSHITA RAY                        F  301 093  A1   002 064  B2   027 083  A1  028 095  A1  029 073  B2  048 068  C1    A1   A2   A1     PASS         
+9190900    ANU YADAV                          F  301 073  B2   002 058  B2   027 051  C2  028 048  C2  029 069  B2  048 073  B2    A1   A2   A1     PASS         
+                                                                                                                                                                 
+9190901    ARFA KHATOON                       F  301 078  B1   002 069  B1   027 077  A2  028 061  B2  029 084  A2  048 068  C1    A1   A2   A1     PASS         
+9190902    BIKESH SINGH                       M  301 068  C1   002 050  C2   027 068  B1  028 054  C1  029 049  D2  048 057  D1    A1   A1   B1     PASS         
+9190903    ISHAN VATS                         M  301 058  C2   002 052  C2   027 054  C2  028 050  C2  029 051  D1  048 053  D2    A1   A1   B1     PASS         
+9190904    JAYA                               F  301 069  C1   002 052  C2   027 050  C2  028 050  C2  029 055  D1  048 054  D1    A1   A1   A2     PASS         
+9190905    JYOTI KUMARI                       F  301 069  C1   002 065  B1   027 062  B2  029 077  B1  048 058  D1  030 027  E     A1   A2   A1     PASS         
+9190906    KALPANA RAWAT                      F  301 090  A1   002 067  B1   027 067  B1  029 064  C1  030 044  D2  048 067  C1    A1   A2   A1     PASS         
+9190907    KAMNA                              F  301 087  A2   002 064  B2   027 080  A2  028 095  A1  029 091  A1  048 070  B2    A1   A1   A1     PASS         
+9190908    KESAR ALI                          M  301 063  C2   002 066  B1   027 059  C1  028 057  C1  029 067  C1  048 053  D2    A1   A1   A2     PASS         
+9190909    KOMAL PAL                          F  301 087  A2   002 069  B1   027 064  B2  028 077  A2  029 066  C1  048 070  B2    A1   A1   A1     PASS         
+9190910    MANISH KUMAR PANWAR                M  301 065  C1   002 043  D1   027 057  C1  029 064  C1  030 047  D1  048 053  D2    A1   A1   A1     PASS         
+                                                                                                                                                                 
+9190911    MANPREET SINGH BALI                M  301 078  B1   002 070  A2   027 068  B1  029 070  B2  030 057  C2  048 075  B1    A1   A1   A1     PASS        
+9190912    MELINA GURUNG                      F  301 090  A1   002 068  B1   027 068  B1  029 069  B2  030 057  C2  048 070  B2    A1   A2   A1     PASS         
+9190913    NAMRATA                            F  301 071  C1   002 069  B1   027 051  C2  029 066  C1  030 042  D2  048 060  C2    A1   A1   A2     PASS         
+9190914    NISHTHA SAINI                      F  301 078  B1   002 052  C2   027 062  B2  029 068  B2  030 046  D2  048 062  C2    A1   A2   A2     PASS         
+9190915    PRASANNSA MISHRA                   F  301 054  D1   002 044  D1   027 036  E   029 053  D1  048 061  C2  030 021  E     A1   A1   A2     COMP  027 030
+9190916    PREETI KUMARI                      F  301 069  C1   002 054  C1   027 056  C1  028 057  C1  029 067  C1  048 056  D1    A1   A1   A1     PASS         
+9190917    PRIYANKA                           F  301 053  D1   002 042  D1   027 052  C2  028 063  B2  048 052  D2  029 041  E     A1   A1   A2     PASS         
+9190918    REETIKA RAJ                        F  301 089  A1   002 090  A1   027 088  A1  029 080  A2  030 093  A1  048 093  A1    A1   A2   A1     PASS         
+9190919    SATYAVRAT YADAV                    M  301 086  A2   002 072  A2   027 086  A1  028 087  A1  029 085  A2  048 064  C1    A1   A1   B1     PASS         
+9190920    SHARIN PETER                       F  301 053  D1   002 043  D1   027 050  C2  028 042  D1  029 054  D1  048 051  D2    A1   A1   A2     PASS         
+                                                                                                                                                                 
+9190921    UJJAVAL RAJPUT                     M  301 059  C2   002 037  D2   027 050  C2  028 052  C1  029 052  D1  048 051  D2    A1   A2   A1     PASS         
+9190922    VISHAL VIJAY KUMAR BIRAJDAR        M  301 067  C1   002 069  B1   027 056  C1  028 063  B2  029 067  C1  048 057  D1    A1   A2   A2     PASS         
+9190923    SHWETANK DEEPAK                    M  301 078  B1   002 060  B2   027 089  A1  028 083  A2  029 085  A2  048 071  B2    A1   A2   A1     PASS         
+9190924    MONIKA DIXIT                       F  301 078  B1   002 070  A2   027 053  C2  029 053  D1  030 045  D2  048 061  C2    A1   A2   A1     PASS         
+9190925    ASTHA PRADHAN                      F  301 094  A1   041 052  C2   042 092  A1  043 084  A2  044 083  B1  048 088  A1    A1   A2   A1     PASS         
+9190926    ASWATHY MOHAN DAS                  F  301 088  A2   041 095  A1   042 095  A1  043 080  B1  044 075  B2  048 080  A2    A1   A2   A1     PASS         
+9190927    PRANAY RANJAN                      M  301 087  A2   041 084  A2   042 091  A1  043 077  B1  044 071  C1  048 080  A2    A2   A2   A1     PASS         
+9190928    ANKUSH SINGH                       M  301 093  A1   041 047  C2   042 078  B1  043 073  B1  044 064  C2  048 078  B1    A2   A2   A1     PASS         
+9190929    RISHAV KUMAR                       M  301 093  A1   041 086  A2   042 094  A1  043 083  A2  044 070  C1  048 079  B1    A2   A2   A1     PASS         
+9190930    KRITIKA JHA                        F  301 088  A2   041 036  D2   042 064  C1  043 064  C1  044 077  B2  048 069  B2    A1   A1   A2     PASS         
+                                                                                                                                                                 
+9190931    DIVYA SAHOO                        F  301 095  A1   041 067  B2   042 075  B1  043 071  B2  044 071  C1  048 073  B2    A2   A1   A1     PASS         
+9190932    MANSI                              F  301 074  B2   041 033  D2   042 063  C2  043 051  D2  044 055  D1  048 071  B2    A2   A1   A2     PASS         
+9190933    SURENDRA KUMAR                     M  301 086  A2   041 091  A2   042 083  A2  043 086  A2  083 096  A1  048 059  C2    A2   A2   A1     PASS         
+9190934    SUBHAM SAHU                        M  301 093  A1   041 099  A1   042 095  A1  043 097  A1  083 094  A1  048 075  B1    A1   A1   A1     PASS         
+9190935    VISHAL JHA                         M  301 087  A2   041 095  A1   042 095  A1  043 086  A2  083 088  A2  048 069  B2    A1   A2   A1     PASS         
+9190936    PRABHAT KUMAR TIWARI               M  301 095  A1   041 089  A2   042 090  A1  043 085  A2  083 093  A1  048 064  C1    A1   A1   A1     PASS         
+9190937    ADITYA PADHMAKAR                   M  301 093  A1   041 088  A2   042 085  A2  043 077  B1  083 085  B1  048 080  A2    A1   A2   A1     PASS         
+9190938    SHIVANSHEE GAUR                    F  301 080  B1   041 064  B2   042 074  B2  043 077  B1  083 077  C1  048 075  B1    A1   A2   A2     PASS         
+9190939    KUNWAR YASHASWEE CHHAUNKER         M  301 078  B1   041 034  D2   042 072  B2  043 057  D1  083 074  C1  048 071  B2    A2   A2   A2     PASS         
+9190940    ROHIT KUMAR RAJAK                  M  301 081  B1   041 084  A2   042 093  A1  043 090  A2  083 098  A1  048 081  A2    A2   A1   A1     PASS         
+                                                                                                                                                                 
+9190941    PRINCE VINAYAK GANGURDE            M  301 084  A2   041 053  C2   042 078  B1  043 065  C1  083 081  B2  048 078  B1    A2   A1   A2     PASS         
+9190942    VAIBHAV MISHRA                     M  301 093  A1   041 054  C2   042 083  A2  043 072  B2  083 086  B1  048 091  A1    A1   A2   A1     PASS         
+9190943    VIDYA SAGAR PRASAD                 M  301 093  A1   041 075  B1   042 089  A2  043 087  A2  083 090  A2  048 065  C1    A2   A1   A1     PASS         
+9190944    AKSHAY BOHRA                       M  301 083  B1   041 069  B2   042 094  A1  043 078  B1  083 083  B1  048 071  B2    A2   A1   A1     PASS         
+9190945    S YOGESH                           M  301 086  A2   041 070  B2   042 075  B1  043 076  B1  083 091  A2  048 076  B1    A1   A1   A1     PASS         
+9190946    AYSHA ROY                          F  301 081  B1   041 054  C2   042 073  B2  043 054  D1  083 081  B2  048 072  B2    A1   A1   A2     PASS         
+9190947    ASHISH SHARMA                      M  301           041           042          043          083          048                             ABST         
+9190948    ABHILASHA SHARMA                   F  301 094  A1   041 055  C1   042 078  B1  043 061  C2  083 081  B2  048 080  A2    A1   A2   A2     PASS         
+9190949    SANJANA                            F  301 087  A2   041 042  D1   042 068  C1  043 057  D1  083 057  D1  048 072  B2    A1   A2   A2     PASS         
+9190950    NITIN SUNIL TABHANE                M  301 083  B1   041 059  C1   042 076  B1  043 070  B2  083 076  C1  048 060  C2    A2   A1   A2     PASS         
+                                                                                                                                                                 
+9190951    KANCHAN                            F  301 086  A2   042 068  C1   043 067  B2  048 060  C2  083 070  C2  041 013  E     A2   A1   A2     PASS         
+9190952    SHILPI SINGH                       F  301 094  A1   041 054  C2   042 087  A2  043 066  C1  083 074  C1  048 062  C2    A2   A2   A2     PASS         
+9190953    BIRUDUGANTI PRAVEEN                M  301 071  C1   041 070  B2   042 077  B1  043 063  C1  083 083  B1  048 051  D2    A2   A2   A2     PASS         
+9190954    KARTIK KUMAR                       M  301 089  A1   041 095  A1   042 093  A1  043 090  A2  083 085  B1  048 059  C2    A1   A1   A1     PASS         
+9190955    ANANDITA PANDEY                    F  301 093  A1   041 050  C2   042 066  C1  043 079  B1  083 074  C1  048 063  C2    A1   A2   A2     PASS         
+9190956    KUMARI GULSHAN                     F  301 084  A2   041 087  A2   042 093  A1  043 086  A2  044 086  A2  048 075  B1    A1   A1   A1     PASS         
+9190957    NAVDEEP KAPOOR                     M  301 072  B2   041 033  D2   042 069  B2  043 068  B2  083 051  D2  048 071  B2    A2   A1   A2     PASS         
+9190958    ADITYA NEOG                        M  301 093  A1   041 089  A2   042 095  A1  043 095  A1  044 089  A2  048 065  C1    A2   A1   A1     PASS         
+9190959    ANJALI KUMARI                      F  301 070  C1   041 057  C1   042 075  B1  043 077  B1  044 058  D1  048 059  C2    A1   A1   A1     PASS         
+9190960    ANJALI RANI                        F  301 086  A2   302 098  A1   042 093  A1  043 095  A1  044 091  A1  048 081  A2    A2   A1   A1     PASS         
+                                                                                                                                                                 
+9190961    ANJALI YADAV                       F  301 084  A2   302 089  A1   042 088  A2  043 081  A2  044 089  A2  048 072  B2    A2   A2   A1     PASS         
+9190962    AASHIFA URF SANIA KHAN             F  301 087  A2   302 085  A2   042 072  B2  043 076  B1  044 077  B2  048 071  B2    A2   A2   A1     PASS         
+9190963    CHANDNI KUMARI                     F  301 085  A2   041 071  B2   042 076  B1  043 077  B1  044 083  B1  048 065  C1    A2   A1   A2     PASS         
+9190964    GREESHMA S                         F  301 094  A1   302 087  A2   042 074  B2  043 077  B1  044 087  A2  048 076  B1    A1   A2   A1     PASS         
+9190965    HIMANSHU                           M  301 090  A1   302 088  A2   042 084  A2  043 084  A2  044 075  B2  048 072  B2    A2   A2   A1     PASS         
+9190966    KIRTI                              F  301 080  B1   302 063  C2   042 052  D2  043 056  D1  044 052  D2  048 062  C2    A1   A1   A1     PASS         
+9190967    MINAKSHI PAUL                      F  301 093  A1   041 087  A2   042 095  A1  043 075  B1  044 080  B1  048 063  C2    A2   A2   A2     PASS         
+9190968    KUMARI PUNAM                       F  301 082  B1   302 078  B1   042 060  D1  043 064  C1  044 069  C1  048 065  C1    A2   A1   A2     PASS         
+9190969    NAWNEET TIWARI                     M  301 079  B1   302 043  D2   042 071  B2  043 055  D1  044 068  C1  048 051  D2    A2   A1   A2     PASS         
+9190970    SHIBANSHI MOHARANA                 F  301 078  B1   302 054  D1   042 064  C1  043 053  D1  044 053  D2  048 057  D1    A1   A2   A2     PASS         
+                                                                                                                                                                 
+9190971    SHIVANI SINGH                      F  301 083  B1   302 063  C2   042 075  B1  043 070  B2  044 068  C1  048 071  B2    A1   A1   A1     PASS         
+9190972    SHRUTI                             F  301 088  A2   302 083  A2   042 074  B2  043 069  B2  044 079  B1  048 077  B1    A1   A1   A1     PASS         
+9190973    SMARNA GURUNG                      F  301 082  B1   302 086  A2   042 087  A2  043 065  C1  044 071  C1  048 068  C1    A1   A2   A2     PASS         
+9190974    SWATI UPADHYAY                     F  301 093  A1   302 090  A1   042 068  C1  043 071  B2  044 071  C1  048 059  C2    A1   A1   A1     PASS         
+9190975    SUMITA KUMARI                      F  301 084  A2   302 086  A2   042 086  A2  043 074  B1  044 087  A2  048 068  C1    A1   A1   A1     PASS         
+9190976    PAWAN KUMAR PAL                    M  301 079  B1   041 062  C1   042 080  B1  043 061  C2  044 064  C2  048 055  D1    A1   A2   A2     PASS         
+9190977    SAKSHI SHARMA                      F  301 089  A1   302 093  A1   042 060  D1  043 062  C2  044 072  C1  048 076  B1    A1   A1   A1     PASS         
+9190978    ARPIT SHARMA                       M  301 088  A2   302 076  B2   042 075  B1  043 077  B1  044 090  A1  048 084  A2    A1   A1   A1     PASS         
+9190979    NIKHIL VERMA                       M  301 078  B1   302 064  C2   042 071  B2  043 083  A2  044 070  C1  048 050  D2    A1   A2   A1     PASS         
+9190980    SONALI KUMARI                      F  301 095  A1   041 088  A2   042 093  A1  043 084  A2  044 092  A1  048 076  B1    A2   A1   A2     PASS         
+                                                                                                                                                                 
+9190981    SHUBHAM SINGH                      M  301 070  C1   041 095  A1   042 086  A2  043 090  A2  044 078  B2  048 071  B2    A2   A2   A2     PASS         
+9190982    NITIN JOSHI                        M  301 088  A2   302 084  A2   042 066  C1  043 062  C2  044 072  C1  048 073  B2    A2   A2   A2     PASS         
+9190983    MUSKAN KAIM                        F  301 082  B1   041 055  C1   042 061  C2  043 066  C1  044 069  C1  048 079  B1    A2   A1   A1     PASS         
+9190984    GARIMA                             F  301 036  D2   302 047  D2   042 052  D2  043 051  D2  044 060  D1  048 063  C2    A1   A2   A2     PASS         
+9190985    ARPIT SHARMA                       M  301 079  B1   041 089  A2   042 087  A2  043 092  A1  044 069  C1  048 082  A2    A1   A1   A1     PASS         
+9190986    AKASH                              M  301 089  A1   041 095  A1   042 095  A1  043 095  A1  044 091  A1  048 086  A2    A1   A2   A1     PASS         
+9190987    PRATHAM                            M  301 061  C2   302 077  B2   042 063  C2  043 063  C1  044 067  C2  048 081  A2    A2   A2   A2     PASS         
+9190988    UDEEPTI                            F  301 089  A1   302 075  B2   042 051  D2  043 052  D1  044 051  D2  048 073  B2    A1   A1   A2     PASS         
+9190989    AJAY SINGH                         M  301 074  B2   302 091  A1   042 062  C2  043 072  B2  044 075  B2  048 084  A2    A2   A1   A1     PASS         
+9190990    V SANTHOSHINI                      F  301 093  A1   041 095  A1   042 093  A1  043 089  A2  044 085  A2  048 082  A2    A2   A2   A1     PASS         
+                                                                                                                                                                 
+9190991    MARIYA JUBY ELDON                  F  301 095  A1   041 093  A2   042 093  A1  043 095  A1  044 088  A2  048 088  A1    A2   A2   A1     PASS         
+9190992    ANURAG SINGH                       M  301 090  A1   041 073  B1   042 077  B1  043 084  A2  083 093  A1  048 072  B2    A1   A1   A2     PASS         
+9190993    ANANYA SHUKLA                      M  301 078  B1   042 047  D2   043 051  D2  048 051  D2  083 041  E   041 012  E     A1   A1   A2     COMP  083 041
+9190994    SAURABH SALVI                      M  301 088  A2   041 042  D1   042 072  B2  043 052  D1  083 073  C1  048 075  B1    A1   A2   A2     PASS         
+9190995    HIMANSHU                           M  301 085  A2   041 093  A2   042 080  B1  043 088  A2  083 088  A2  048 070  B2    A2   A1   A1     PASS         
+9190996    AMAN KUMAR                         M  301 093  A1   041 094  A2   042 095  A1  043 095  A1  083 091  A2  048 087  A1    A2   A1   A1     PASS         
+9190997    SUDHANSHU SHEKHAR MALLICK          M  301 095  A1   041 095  A1   042 095  A1  043 090  A2  083 094  A1  048 080  A2    A2   A2   A1     PASS         
+9190998    KIRAN                              F  301 095  A1   041 095  A1   042 095  A1  043 095  A1  083 095  A1  048 091  A1    A2   A1   A1     PASS         
+9190999    DIVYANSHU RATHORE                  M  301 095  A1   041 095  A1   042 092  A1  043 095  A1  083 098  A1  048 083  A2    A2   A2   A1     PASS         
+9191000    TEJVEER SINGH                      M  301           041           042          043          083          048                             ABST         
+                                                                                                                                                                 
+9191001    KRITIKA GOSWAMI                    F  301 089  A1   041 084  A2   042 083  A2  043 086  A2  083 086  B1  048 068  C1    A2   A2   A1     PASS         
+9191002    PRERNA                             F  301 093  A1   041 080  B1   042 071  B2  043 054  D1  083 090  A2  048 073  B2    A2   A1   A1     PASS         
+9191003    HIMANSHU MAHANTA                   M  301 091  A1   041 058  C1   042 088  A2  043 083  A2  083 091  A2  048 076  B1    A2   A1   A1     PASS         
+9191004    AJAY BOHRA                         M  301 093  A1   041 093  A2   042 085  A2  043 073  B1  083 082  B2  048 067  C1    A2   A2   A1     PASS         
+9191005    NITIN KUMAR SHUKLA                 M  301 080  B1   041 080  B1   042 094  A1  043 089  A2  083 094  A1  048 077  B1    A2   A2   A1     PASS         
+9191006    MAAZ AHMED                         M  301 071  C1   041 069  B2   042 080  B1  043 085  A2  083 082  B2  048 059  C2    A2   A2   A1     PASS         
+9191007    PURSHOTTAM KUMAR SINGH             M  301 083  B1   041 084  A2   042 089  A2  043 081  A2  083 090  A2  048 067  C1    A2   A1   A2     PASS         
+9191008    NIKHIL KUMAR                       M  301 084  A2   302 067  C1   041 073  B1  042 084  A2  043 068  B2  048 060  C2    A2   A1   A2     PASS         
+9191009    AVINASH KUMAR SINGH                M  301 089  A1   302 068  C1   041 033  D2  042 059  D1  043 062  C2  048 064  C1    A2   A1   A2     PASS         
+9191010    ABHISHEK NOHWAR                    M  301 095  A1   302 075  B2   041 042  D1  042 068  C1  043 058  C2  048 065  C1    A2   A1   A2     PASS         
+                                                                                                                                                                 
+9191011    SAKSHI KUMARI                      F  301 077  B2   302 056  D1   041 033  D2  042 069  B2  043 056  D1  048 057  D1    A1   A1   A2     PASS         
+9191012    PAWAN KUMAR                        M  301 083  B1   041 033  D2   042 065  C1  043 054  D1  083 063  D1  048 045  E     A2   A1   A2     PASS         
+9191013    ANKUR BHARI                        M  301 094  A1   041 057  C1   042 080  B1  043 068  B2  083 071  C2  048 053  D2    A2   A2   A1     PASS         
+9191014    VARSNEYA SRINIVAS                  M  301 087  A2   041 095  A1   042 095  A1  043 095  A1  083 094  A1  048 081  A2    A2   A2   A1     PASS         
+9191015    SWATI                              F  301 086  A2   041 048  C2   042 068  C1  043 061  C2  083 072  C1  048 061  C2    A1   A1   A1     PASS         
+9191016    RAMAKANT VISHWAKARMA               M  301 096  A1   041 062  C1   042 090  A1  043 072  B2  083 077  C1  048 065  C1    A2   A1   A1     PASS         
+9191017    DUSHYANT KUMAR                     M  301 084  A2   041 047  C2   042 080  B1  043 065  C1  083 067  C2  048 074  B2    A2   A1   A1     PASS         
+9191018    ABHISHEK DWIVEDI                   M  301 093  A1   041 062  C1   042 071  B2  043 084  A2  083 076  C1  048 083  A2    A2   A1   A1     PASS         
+9191019    ASTHA                              F  301 093  A1   302 086  A2   041 049  C2  042 078  B1  043 062  C2  048 071  B2    A2   A2   A1     PASS         
+9191020    VIPIN SINGH                        M  301 078  B1   042 058  D1   043 056  D1  048 080  A2  083 063  D1  041 014  E     A2   A2   A2     PASS         
+                                                                                                                                                                 
+9191021    PUNEET KUMAR SINGH                 M  301 095  A1   041 095  A1   042 095  A1  043 099  A1  083 093  A1  048 087  A1    A2   A1   A1     PASS         
+9191022    AMRIT TYAGI                        M  301 086  A2   041 067  B2   042 090  A1  043 080  B1  083 069  C2  048 084  A2    A2   A2   A1     PASS         
+9191023    ARBAZ AHMAD                        M  301 061  C2   041 063  B2   042 079  B1  043 081  A2  083 058  D1  048 082  A2    A2   A2   A1     PASS         
+9191024    NEERAJ SHARMA                      M  301 066  C1   041 060  C1   042 087  A2  043 081  A2  083 070  C2  048 080  A2    A2   A2   A1     PASS         
+9191025    PRABHAT KUMAR MISHRA               M  301           041           042          043          083          048                             ABST         
+9191026    KRITIKA LAL                        F  301 073  B2   041 033  D2   042 061  C2  043 053  D1  083 059  D1  048 071  B2    A1   A2   A2     PASS         
+9191027    SHUBHAM RANA                       M  301 046  D1   041 052  C2   042 052  D2  043 055  D1  083 067  C2  048 058  D1    A1   A1   A2     PASS         
+9191028    ABHIJEET PAL                       M  301           302           041          042          043          048                             ABST         
+9191029    SAURABH KUMAR                      M  301 045  D1   302 047  D2   041 042  D1  042 064  C1  043 052  D1  048 081  A2    B1   A2   B1     PASS         
+9191030    RITIK                              M  301 069  C1   030 083  B1   041 078  B1  054 088  A2  055 088  A1  048 078  B1    A2   A1   A1     PASS         
+                                                                                                                                                                 
+9191031    KANISHK                            M  301 073  B2   030 090  A2   041 072  B2  054 071  B2  055 060  B2  048 074  B2    A2   A2   A1     PASS         
+9191032    SURAJ MANJHI                       M  301 068  C1   030 060  C2   041 053  C2  054 064  C1  055 054  C2  048 084  A2    A2   A2   A1     PASS         
+9191033    PANKAJ PANDEY                      M  301 044  D2   030 046  D2   041 034  D2  054 056  C2  055 055  C1  048 075  B1    A2   A2   A1     PASS         
+9191034    AYUSH PRABHAT                      M  301 088  A2   030 087  A2   041 062  C1  054 072  B2  055 071  B1  048 068  C1    A2   A2   A1     PASS         
+9191035    AKSHAY PANDIT                      M  301 068  C1   030 090  A2   041 084  A2  054 094  A1  055 075  A2  048 075  B1    A2   A1   A2     PASS         
+9191036    PRABHAT KUMAR JHA                  M  301 043  D2   030 052  D1   041 033  D2  054 047  D1  055 055  C1  048 053  D2    A2   A1   A1     PASS         
+9191037    SHIVAM VASHISHT                    M  301 065  C1   030 062  C1   041 054  C2  054 076  B1  055 054  C2  048 074  B2    A2   A1   A1     PASS         
+9191038    AKASH KUMAR UPADHYAY               M  301 073  B2   030 041  D2   048 065  C1  054 055  C2  055 042  D2  041 017  E     A2   A1   A1     PASS         
+9191039    SUCHETA YADAV                      F  301 037  D2   030 059  C2   041 033  D2  054 045  D2  055 056  C1  048 061  C2    A1   A1   A2     PASS         
+9191040    JYOTI SINHA                        F  301 073  B2   030 089  A2   041 061  C1  054 070  B2  055 071  B1  048 078  B1    A1   A2   A2     PASS         
+                                                                                                                                                                 
+9191041    VIDUSHI GUSAIN                     F  301 084  A2   030 086  A2   041 060  C1  054 082  B1  055 063  B2  048 058  D1    A2   A1   A2     PASS         
+9191042    RASHMI                             F  301 049  D1   030 073  B2   041 059  C1  054 057  C2  055 056  C1  048 066  C1    A2   A2   A1     PASS         
+9191043    AKANKSHA BHATI                     F  301 068  C1   030 044  D2   041 034  D2  054 064  C1  055 044  D2  048 066  C1    A2   A2   A1     PASS         
+9191044    PRIYANKA                           F  301 081  B1   030 078  B1   041 052  C2  054 089  A2  055 063  B2  048 066  C1    A2   A1   A2     PASS         
+9191045    S MAYANK                           M  301 045  D1   302 055  D1   030 046  D2  054 044  D2  055 057  C1  048 059  C2    A2   A1   A1     PASS         
+9191046    SACHIN KUMAR                       M  301 048  D1   302 067  C1   030 063  C1  054 053  D1  055 051  C2  048 065  C1    A2   A1   A1     PASS         
+9191047    PRASHANT ANAND                     M  301 055  D1   302 064  C2   030 070  B2  054 076  B1  055 048  D1  048 068  C1    A1   A2   A2     PASS         
+9191048    PRASHANT                           M  301 051  D1   302 068  C1   030 056  C2  054 060  C1  055 049  C2  048 061  C2    A1   A2   A1     PASS         
+9191049    SANJANA SINGH                      F  301 040  D2   302 064  C2   030 046  D2  054 056  C2  055 047  D1  048 059  C2    A1   A1   A2     PASS         
+9191050    ARCHITA RAI                        F  301 067  C1   302 069  C1   030 068  C1  054 075  B1  055 053  C2  048 061  C2    A1   A1   A2     PASS         
+                                                                                                                                                                 
+9191051    VINEETA                            F  301 056  C2   302 075  B2   030 047  D1  054 048  D1  055 044  D2  048 071  B2    A1   A2   A1     PASS         
+9191052    ANAMIKA YADAV                      F  301 065  C1   302 085  A2   030 063  C1  054 063  C1  055 053  C2  048 061  C2    A1   A2   A1     PASS         
+9191053    DEEPIKA SHARMA                     F  301 071  C1   302 080  B1   030 061  C2  054 063  C1  055 046  D1  048 057  D1    A2   A1   A2     PASS         
+9191054    VISHAL SINGH CHAUHAN               M  301 064  C2   302 063  C2   054 073  B2  734 078  C1  735 083  B2  048 063  C2         A1   A2     PASS         
+9191055    GANESH DURA                        M  301 045  D1   302 053  D1   054 067  B2  734 079  B2  735 077  C1  048 056  D1         A1   A1     PASS         
+9191056    ANURAG PANDEY                      M  301 042  D2   302 043  D2   054 047  D1  734 066  D1  735 058  D2  048 051  D2         A1   A1     PASS         
+9191057    AYUSHI                             F  301 085  A2   302 081  B1   054 057  C2  734 095  A1  735 093  A1  048 071  B2         A1   A1     PASS         
+9191058    YOGITA BHATIA                      F  301 063  C2   302 076  B2   054 067  B2  734 091  A1  735 077  C1  048 068  C1         A1   A1     PASS         
+9191059    PRANJULI PANDEY                    F  301 095  A1   302 097  A1   030 098  A1  054 098  A1  055 095  A1  048 093  A1    A2   A2   A1     PASS         
+9191060    R ANINTHI                          F  301 079  B1   302 052  D1   030 084  B1  054 082  B1  055 062  B2  048 068  C1    A1   A1   A1     PASS         
+                                                                                                                                                                 
+9191061    REKHA KUMARI                       F  301 089  A1   302 078  B1   030 056  C2  054 064  C1  055 049  C2  048 063  C2    A1   A1   A1     PASS         
+9191062    DURGESH KANWAR                     F  301 057  C2   302 089  A1   030 086  A2  054 063  C1  055 061  B2  048 063  C2    A1   A2   A2     PASS         
+9191063    AYUSHI PANWAR                      F  301 068  C1   302 069  C1   030 080  B1  054 068  B2  055 058  C1  048 071  B2    A1   A1   A2     PASS         
+9191064    SURBHI PAL                         F  301 058  C2   302 082  B1   030 070  B2  054 072  B2  055 071  B1  048 064  C1    A2   A2   A2     PASS         
+9191065    SHRISTI                            F  301 070  C1   302 081  B1   030 072  B2  054 086  A2  055 057  C1  048 062  C2    A2   A1   A1     PASS         
+9191066    ADITI                              F  301 070  C1   302 059  C2   030 082  B1  054 055  C2  055 073  A2  048 062  C2    A2   A1   A2     PASS         
+9191067    POOJA RANI                         F  301 053  D1   302 077  B2   030 059  C2  054 054  D1  055 044  D2  048 062  C2    A1   A1   A2     PASS         
+9191068    ANAMIKA KUMARI                     F  301 043  D2   302 058  D1   030 072  B2  054 055  C2  055 056  C1  048 050  D2    A2   A1   A2     PASS         
+9191069    PALVI KATOCH                       F  301 050  D1   302 057  D1   030 070  B2  054 045  D2  055 044  D2  048 050  D2    A2   A1   A2     PASS         
+9191070    POOJA YADAV                        F  301 048  D1   302 066  C1   030 065  C1  054 044  D2  055 045  D1  048 058  D1    A1   A1   A2     PASS                                                                                                                                                                     
+9191071    AUCHITYA SAINI                     M  301 073  B2   302 053  D1   030 061  C2  054 078  B1  055 057  C1  048 062  C2    A2   A2   A1     PASS         
+9191072    ARJUN MOHAN DAS                    M  301 078  B1   302 064  C2   048 061  C2  054 046  D2  055 024  E   030 032  E     A2   A2   A1     COMP  055 030
+9191073    MANISH KUMAR                       M  301 048  D1   302 067  C1   030 067  C1  054 053  D1  055 059  B2  048 067  C1    A1   A2   A2     PASS         
+9191074    AKASH RAWAT                        M  301 053  D1   302 061  C2   030 062  C1  054 065  C1  055 055  C1  048 055  D1    A1   A2   A1     PASS         
+9191075    ASHISH KUMAR                       M  301 055  D1   302 088  A2   030 086  A2  054 086  A2  055 055  C1  048 066  C1    A1   A1   A1     PASS         
+9191076    MANAS NANDA                        M  301 054  D1   302 059  C2   030 045  D2  054 045  D2  055 046  D1  048 053  D2    A2   A2   A2     PASS         
+9191077    NARAYAN SINGH                      M  301 048  D1   302 079  B1   030 045  D2  054 048  D1  055 053  C2  048 051  D2    A1   A1   A2     PASS         
+9191078    SACHIDANAND JHA                    M  301 060  C2   302 051  D1   030 041  D2  054 055  C2  055 048  D1  048 056  D1    A1   A1   A2     PASS         
+9191079    JASBIR SINGH UJJAINWAL             M  301 049  D1   302 047  D2   030 041  D2  054 044  D2  055 054  C2  048 044  E     A1   A1   A2     PASS         
+9191080    GULAB SINGH BISHT                  M  301 040  D2   302 041  D2   030 030  E   054 053  D1  055 042  D2  048 041  E     A2   A2   A2     COMP  030 048
+                                                                                                                                                                 
+9191081    SUNNY SHARMA                       M  301 065  C1   302 057  D1   030 043  D2  054 045  D2  055 055  C1  048 053  D2    A2   A1   A1     PASS         
+9191082    ANKIT KUMAR                        M  301 037  D2   002 051  C2   027 053  C2  029 056  C2  030 048  D1  048 051  D2    A2   A2   A2     PASS         
+9191083    AWADESH KUMAR                      M  301 080  B1   002 094  A1   027 092  A1  028 090  A1  029 088  A1  048 057  D1    A2   A2   A1     PASS         
+9191084    KOMAL SHARMA                       F  301 067  C1   002 072  A2   027 063  B2  029 064  C1  030 073  B2  048 069  B2    A2   A2   A2     PASS         
+9191085    VIJAY KUMAR                        M  301 064  C2   002 062  B2   027 068  B1  028 080  A2  029 089  A1  048 062  C2    A2   A1   A2     PASS         
+9191086    PRASHANT                           M  301 052  D1   002 049  C2   027 076  A2  029 069  B2  030 063  C1  048 066  C1    A2   A1   A1     PASS         
+9191087    DEEPAK                             M  301 062  C2   002 070  A2   027 059  C1  028 075  B1  029 061  C2  048 061  C2    A2   A1   A1     PASS         
+9191088    PRIYANSHI SHARMA                   F  301 062  C2   002 049  C2   027 056  C1  029 079  B1  030 065  C1  048 052  D2    A1   A2   A2     PASS         
+9191089    AAKASH JORIYA                      M  301 051  D1   002 046  D1   027 058  C1  028 040  D1  029 059  C2  048 053  D2    A2   A1   A2     PASS         
+9191090    ABHEY DWIVEDI                      M  301 071  C1   002 056  C1   027 068  B1  029 068  B2  030 080  B1  048 064  C1    A1   A2   A1     PASS         
+                                                                                                                                                                 
+9191091    SWETA KUMARI                       F  301 041  D2   002 058  B2   027 060  B2  028 057  C1  029 081  A2  048 061  C2    A1   A2   A1     PASS         
+9191092    ABHISHEK BISHT                     M  301 046  D1   002 064  B2   027 064  B2  029 053  D1  030 044  D2  048 053  D2    A2   A1   A2     PASS         
+9191093    MAMTA KUMARI                       F  301 055  D1   002 080  A1   027 058  C1  029 070  B2  030 041  D2  048 062  C2    A2   A1   A2     PASS         
+9191094    SANJANA CHOUDHARY                  F  301 049  D1   002 038  D2   027 061  B2  029 061  C2  030 038  D2  048 062  C2    A2   A1   A2     PASS         
+9191095    ARUP PAUL                          M  301 058  C2   002 040  D1   027 058  C1  029 066  C1  030 042  D2  048 065  C1    A2   A2   A2     PASS         
+9191096    KUNDAN TIWARI                      M  301 058  C2   002 043  D1   027 046  D1  029 057  C2  030 064  C1  048 061  C2    A2   A1   A2     PASS         
+9191097    MOHAMMAD ZEESHAN                   M  301 056  C2   002 048  C2   027 063  B2  028 076  A2  029 076  B1  048 063  C2    A2   A2   A2     PASS         
+9191098    AKASH LOHIA                        M  301 049  D1   002 051  C2   027 048  D1  028 047  C2  029 056  C2  048 056  D1    A2   A1   A2     PASS         
+9191099    SWETA KUMARI                       F  301 056  C2   002 048  C2   029 054  D1  734 068  D1  735 085  B1  048 062  C2         A1   A1     PASS         
+9191100    ARATI SOROUT                       F  301 065  C1   002 062  B2   027 072  B1  028 075  B1  029 072  B2  048 069  B2    A2   A2   A2     PASS         
+                                                                                                                                                                 
+9191101    NEERAJ SINGH                       M  301 063  C2   002 058  B2   027 062  B2  028 076  A2  029 070  B2  048 058  D1    A2   A2   A1     PASS         
+9191102    DHARMENDER                         M  301 080  B1   002 074  A2   027 068  B1  028 085  A1  029 069  B2  048 064  C1    A2   A2   A1     PASS         
+9191103    ABHIROOP JASH                      M  301 049  D1   002 047  C2   027 047  D1  028 057  C1  029 074  B1  048 061  C2    A2   A2   A2     PASS         
+9191104    RITIK PIWAL                        M  301 043  D2   002 050  C2   027 065  B2  028 052  C1  029 063  C1  048 062  C2    A2   A1   A1     PASS         
+9191105    AMAN GUSAIN                        M  301 061  C2   002 050  C2   029 064  C1  048 053  D2  734 065  D1  735 068  D1         A1   A2     PASS         
+9191106    PRABHAT MISHRA                     M  301 042  D2   002 041  D1   027 049  D1  028 066  B1  029 057  C2  048 062  C2    A2   A1   A1     PASS         
+9191107    KAVITA KUMARI                      F  301 043  D2   002 045  D1   029 053  D1  048 055  D1  734 079  B2  735 066  D1         A2   A1     PASS         
+9191108    DEEPIKA YADAV                      F  301 066  C1   002 080  A1   027 065  B2  029 076  B1  030 055  C2  048 057  D1    A2   A1   A2     PASS         
+9191109    MUKESH KUMAR                       M  301 083  B1   002 089  A1   027 082  A1  028 090  A1  029 096  A1  048 072  B2    A2   A2   A1     PASS         
+9191110    RUPENDRA SINGH KAMAL               M  301 054  D1   002 062  B2   027 061  B2  028 048  C2  029 070  B2  048 057  D1    A2   A1   A1     PASS         
+                                                                                                                                                                 
+9191111    ARMIT SACHAN                       M  301 090  A1   002 075  A2   027 088  A1  028 086  A1  029 090  A1  048 069  B2    A2   A1   A1     PASS         
+9191112    VAIBHAV SHARMA                     M  301 078  B1   002 075  A2   027 073  A2  029 093  A1  030 074  B2  048 065  C1    A2   A2   A1     PASS         
+9191113    VRINDA S LAL                       F  301 078  B1   002 037  D2   027 055  C1  028 075  B1  029 090  A1  048 058  D1    A2   A1   A1     PASS         
+9191114    SWATI SINGH PATEL                  F  301 078  B1   002 089  A1   027 072  B1  029 090  A1  030 058  C2  048 061  C2    A2   A1   A1     PASS         
+9191115    AYUSHI SHARMA                      F  301 090  A1   041 094  A2   042 093  A1  043 084  A2  044 087  A2  048 057  D1    A1   A1   A1     PASS         
+9191116    RISHABH KUMAR                      M  301 083  B1   041 079  B1   042 092  A1  043 087  A2  083 079  B2  048 067  C1    A1   A1   A1     PASS         
+9191117    ASHWANI KUMAR PANDEY               M  301 091  A1   041 095  A1   042 095  A1  043 092  A1  083 089  A2  048 080  A2    A1   A1   A1     PASS         
+9191118    KAUSHIK DAS                        M  301 090  A1   041 095  A1   042 095  A1  043 087  A2  044 086  A2  048 079  B1    A1   A2   A1     PASS         
+9191119    ASHUTOSH KUMAR                     M  301 083  B1   041 087  A2   042 086  A2  043 074  B1  083 085  B1  048 070  B2    A1   A1   A2     PASS         
+9191120    NISHA CHAUDHARY                    F  301 086  A2   302 095  A1   042 074  B2  043 054  D1  044 086  A2  048 070  B2    A1   A1   A2     PASS                                                                                                                                                             
+9191121    ABU BAKAR SIDDEEK                  M  301 086  A2   041 095  A1   042 095  A1  043 091  A1  044 090  A1  048 071  B2    A1   A2   A1     PASS         
+9191122    SHIVANK PATHAK                     M  301 069  C1   042 061  C2   043 060  C2  044 050  D2  048 053  D2  041 013  E     A1   A1   A2     PASS         
+9191123    SHIVANI KUMARI                     F  301 078  B1   302 090  A1   042 075  B1  043 057  D1  044 072  C1  048 061  C2    A1   A2   A2     PASS         
+9191124    PRASANSHA SATPATHY                 F  301 089  A1   041 090  A2   042 095  A1  043 095  A1  044 085  A2  048 086  A2    A1   A1   A1     PASS         
+9191125    SHREEYA                            F  301 095  A1   302 078  B1   042 082  A2  043 066  C1  044 078  B2  048 073  B2    A1   A1   A2     PASS         
+9191126    NEHA                               F  301 083  B1   302 085  A2   042 082  A2  043 066  C1  044 075  B2  048 072  B2    A1   A2   A2     PASS         
+9191127    SNEHA PANDEY                       F  301 085  A2   302 084  A2   042 082  A2  043 062  C2  044 071  C1  048 068  C1    A1   A2   A1     PASS         
+9191128    AYUSH KUMAR                        M  301 078  B1   041 065  B2   042 084  A2  043 080  B1  083 067  C2  048 078  B1    A1   A1   A1     PASS         
+9191129    KULDEEP SINGH                      M  301 085  A2   041  AB  E    042 036  E   043 028  E   083 028  E   048 029  E     A1   A1   A2     FAIL         
+9191130    HARSHIT PATHAK                     M  301 090  A1   041 094  A2   042 095  A1  043 095  A1  065 098  A1  048 063  C2    A1   A2   A1     PASS                                                                                                               
+9191131    SHAHID ALI                         M  301 069  C1   302 070  C1   041 084  A2  042 079  B1  043 086  A2  048 074  B2    A1   A1   A1     PASS         
+9191132    SANDEEP BHARTI                     M  301 082  B1   302 086  A2   042 079  B1  043 051  D2  048 080  A2  041 013  E     A1   A2   A2     PASS         
+9191133    NIKITA SINGH                       F  301 068  C1   302 059  C2   030 053  D1  054 059  C2  055 055  C1  048 061  C2    A1   A1   B1     PASS         
+9191134    ANAMIKA                            F  301 080  B1   302 071  C1   030 094  A1  054 074  B2  055 059  B2  048 080  A2    A1   A2   B1     PASS         
+9191135    ABHIJEET OJHA                      M  301 068  C1   302 054  D1   030 078  B1  054 056  C2  055 054  C2  048 073  B2    A1   A1   A1     PASS         
+9191136    DEEPA                              F  301 067  C1   302 072  B2   030 068  C1  054 056  C2  055 055  C1  048 075  B1    A1   A2   A2     PASS         
+9191137    RAVISH KUMAR                       M  301 093  A1   302 090  A1   030 098  A1  054 098  A1  055 094  A1  048 091  A1    A1   A1   A1     PASS         
+9191138    SARVESH SINGH                      M  301 057  C2   302 049  D1   030 051  D1  054 053  D1  055 044  D2  048 053  D2    A1   A1   A2     PASS         
+9191139    NITISH YADAV                       M  301 080  B1   302 064  C2   030 085  A2  054 087  A2  055 076  A2  048 062  C2    A1   A2   A2     PASS         
+9191140    KIRAN                              F  301 054  D1   302 072  B2   030 085  A2  054 079  B1  055 061  B2  048 052  D2    A1   A2   A1     PASS         
+                                                                                                                                                                 
+9191141    PRASHANT K SONNI                   M  301 087  A2   002 081  A1   027 069  B1  029 081  A2  030 071  B2  048 071  B2    A1   A1   A1     PASS         
+9191142    NIDHI YADAV                        F  301 078  B1   002 056  C1   027 069  B1  029 056  C2  030 055  C2  048 068  C1    A1   A1   A1     PASS         
+9191143    SUSHANT SHARMA                     M  301 078  B1   041 042  D1   042 061  C2  043 053  D1  044 060  D1  048 069  B2    A1   A2   A2     PASS         
+9191144    PAWAN SINGH                        M  301 055  D1   002 058  B2   027 057  C1  029 052  D1  030 045  D2  048 054  D1    A1   A2   B1     PASS         
+9191145    NEHA                               F  301 086  A2   302 086  A2   041 072  B2  042 077  B1  043 091  A1  048 073  B2    A1   A2   A1     PASS         
+9191146    G PRITHAM                          M  301 078  B1   041 033  D2   048 053  D2  054 060  C1  055 055  C1  030 038  E     A1   A1   A2     PASS         
+9191147    VIKAS KUMAR                        M  301 086  A2   302 075  B2   041 095  A1  042 091  A1  043 089  A2  048 072  B2    A2   A1   A1     PASS         
+9191148    TEJ PRATAP SINGH ARYA              M  301 050  D1   302 037  D2   027 049  D1  028 033  D2  029 053  D1  048 053  D2    A2   A2   A1     PASS         
+9191149    SHALINI KUMARI                     F  301 090  A1   041 065  B2   042 080  B1  043 081  A2  044 088  A2  048 079  B1    A2   A2   A1     PASS         
+9191150    DIVYANSH                           M  301 088  A2   041 071  B2   042 076  B1  043 071  B2  083 091  A2  048 079  B1    A2   A2   A1     PASS         
+                                                                                                                                                                 
+9191151    MANISH KUMAR TIWARI                M  301 084  A2   041 072  B2   042 069  B2  043 063  C1  083 086  B1  048 062  C2    A1   A1   A1     PASS         
+9191152    DIPANSHU                           M  301 048  D1   302 045  D2   030 032  E   048 051  D2  055 054  C2  054 023  E     A2   A2   A1     COMP
+9191153    ANKIT SINGH                        M  301 063  C2   302 060  C2   030 044  D2  054 045  D2  055 044  D2  048 053  D2    A2   A1   A2     PASS         
