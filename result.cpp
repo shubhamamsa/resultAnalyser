@@ -6,7 +6,7 @@
 
 using namespace std;
 
-class Student{
+class student{
 
 		int roll_no;
 		char name[40];
@@ -23,8 +23,7 @@ class Student{
 		void getStream();
 		void getTotalMarks();
 };
-Student::Student()
-{
+Student::Student()	{
 	
 	roll_no = 0;
 	strcpy(name, "");
@@ -96,8 +95,7 @@ void Student::getStream()	{
 			break;
 	}
 }
-void Student::input(ifstream& ifs)
-{
+void Student::input(ifstream& ifs)	{
 	char word[100];
 	ifs>>roll_no;
 	if(ifs.eof())
@@ -149,16 +147,6 @@ void Student::input(ifstream& ifs)
 	getTotalMarks();
 	getStream();
 }
-
-/*void Student::show()	{
-	cout<<roll_no<<endl<<name<<endl<<gender<<endl;
-	for(int i=0;i<6;i++)
-	{
-		cout<<sub_code[i]<<" "<<marks[i]<<" "<<grade[i]<<endl;
-	}
-	cout<<grade[6]<<endl<<grade[7]<<endl<<grade[8]<<endl;
-	cout<<result<<endl<<endl;
-}*/	
 
 int main()	{
 	Student s;
