@@ -40,11 +40,14 @@ void searchByName();
 
 void Student::show()	{
 		cout<<stream<<": "<<sub_stream<<endl;
-		cout<<roll_no<<endl<<name<<endl<<gender<<endl;
-		for(int i=0;i<6;i++)	
-			cout<<getSubject(sub_code[i])<<": "<<" "<<marks[i]<<" "<<grade[i]<<endl;
-		cout<<result<<endl;
-		cout<<float(total_marks)/5.0<<"%"<<endl<<endl;
+		cout<<"Roll no: "<<roll_no<<endl<<"Name: "<<name<<endl<<"Gender: "<<gender<<endl;
+		for(int i=0;i<6;i++)	{
+			cout<<getSubject(sub_code[i])<<": "<<" "<<marks[i]<<" ";
+			if(i==2)
+				cout<<endl;
+		}
+		cout<<endl<<"Status: "<<result<<endl;
+		cout<<"Percentage: "<<float(total_marks)/5.0<<"%"<<endl<<endl;
 }
 char* Student::getSubject(int sub_code)	{
 	char* sub_name = new char;
@@ -90,6 +93,9 @@ char* Student::getSubject(int sub_code)	{
 			break;
 		case 48:
 			strcpy(sub_name, "Physical Education");
+			break;
+		case 2:
+			strcpy(sub_name, "Hindi Elective");
 			break;
 		default:
 			cout<<"Something is not right";
@@ -295,17 +301,173 @@ void showSubTopper()	{
 		cout<<"Error opening file";
 		return;
 	}
-	int subTopper[14]; 
+	int subTopper[15];
+	for(int i=0;i<15;i++)
+		subTopper[i]=0; 
 	while(ifs.read((char*)&s, sizeof(s)))	{
-		if(topper<s.totalMarks())	{
-			topper = s.totalMarks();
+		for(int i=0;i<6;i++)	{
+			switch(s.getSubcode()[i])	{
+				case 301:
+					if(subTopper[12]<s.getMarks()[i])
+						subTopper[12]=s.getMarks()[i];
+					break;
+				case 42:
+					if(subTopper[5]<s.getMarks()[i])
+						subTopper[5]=s.getMarks()[i];
+					break;
+				case 43:
+					if(subTopper[6]<s.getMarks()[i])
+						subTopper[6]=s.getMarks()[i];
+					break;
+				case 41:
+					if(subTopper[4]<s.getMarks()[i])
+						subTopper[4]=s.getMarks()[i];
+					break;
+				case 44:
+					if(subTopper[7]<s.getMarks()[i])
+						subTopper[7]=s.getMarks()[i];
+					break;
+				case 83:
+					if(subTopper[11]<s.getMarks()[i])
+						subTopper[11]=s.getMarks()[i];
+					break;
+				case 302:
+					if(subTopper[13]<s.getMarks()[i])
+						subTopper[13]=s.getMarks()[i];
+					break;
+				case 54:
+					if(subTopper[9]<s.getMarks()[i])
+						subTopper[9]=s.getMarks()[i];
+					break;
+				case 30:
+					if(subTopper[3]<s.getMarks()[i])
+						subTopper[3]=s.getMarks()[i];
+					break;
+				case 27:
+					if(subTopper[0]<s.getMarks()[i])
+						subTopper[0]=s.getMarks()[i];
+					break;
+				case 28:
+					if(subTopper[1]<s.getMarks()[i])
+						subTopper[1]=s.getMarks()[i];
+					break;
+				case 29:
+					if(subTopper[2]<s.getMarks()[i])
+						subTopper[2]=s.getMarks()[i];
+					break;
+				case 55:
+					if(subTopper[10]<s.getMarks()[i])
+						subTopper[10]=s.getMarks()[i];
+					break;
+				case 48:
+					if(subTopper[8]<s.getMarks()[i])
+						subTopper[8]=s.getMarks()[i];
+					break;
+				case 2:
+					if(subTopper[14]<s.getMarks()[i])
+						subTopper[14]=s.getMarks()[i];
+					break;
+			}
 		}
 	}
 	ifs.clear();
 	ifs.seekg(0);
-	while(ifs.read((char*)&s, sizeof(s)))
-		if(s.totalMarks() == topper)
-			s.show();
+	while(ifs.read((char*)&s, sizeof(s)))	{
+		for(int i=0;i<6;i++)	{
+		switch(s.getSubcode()[i])	{
+				case 301:
+					if(subTopper[12]==s.getMarks()[i])	{
+						cout<<s.getSubject(s.getSubcode()[i])<<" Topper: "<<endl;
+						cout<<s.getName()<<":"<<endl<<s.getSubject(s.getSubcode()[i])<<": "<<s.getMarks()[i]<<endl<<endl;
+					}
+					break;
+				case 42:
+					if(subTopper[5]==s.getMarks()[i])	{
+						cout<<s.getSubject(s.getSubcode()[i])<<" Topper: "<<endl;
+						cout<<s.getName()<<":"<<endl<<s.getSubject(s.getSubcode()[i])<<": "<<s.getMarks()[i]<<endl<<endl;
+					}
+					break;
+				case 43:
+					if(subTopper[6]==s.getMarks()[i])	{
+						cout<<s.getSubject(s.getSubcode()[i])<<" Topper: "<<endl;
+						cout<<s.getName()<<":"<<endl<<s.getSubject(s.getSubcode()[i])<<": "<<s.getMarks()[i]<<endl<<endl;
+					}
+					break;
+				case 41:
+					if(subTopper[4]==s.getMarks()[i])	{
+						cout<<s.getSubject(s.getSubcode()[i])<<" Topper: "<<endl;
+						cout<<s.getName()<<":"<<endl<<s.getSubject(s.getSubcode()[i])<<": "<<s.getMarks()[i]<<endl<<endl;
+					}
+					break;
+				case 44:
+					if(subTopper[7]==s.getMarks()[i])	{
+						cout<<s.getSubject(s.getSubcode()[i])<<" Topper: "<<endl;
+						cout<<s.getName()<<":"<<endl<<s.getSubject(s.getSubcode()[i])<<": "<<s.getMarks()[i]<<endl<<endl;
+					}
+					break;
+				case 83:
+					if(subTopper[11]==s.getMarks()[i])	{
+						cout<<s.getSubject(s.getSubcode()[i])<<" Topper: "<<endl;
+						cout<<s.getName()<<":"<<endl<<s.getSubject(s.getSubcode()[i])<<": "<<s.getMarks()[i]<<endl<<endl;
+					}
+					break;
+				case 302:
+					if(subTopper[13]==s.getMarks()[i])	{
+						cout<<s.getSubject(s.getSubcode()[i])<<" Topper: "<<endl;
+						cout<<s.getName()<<":"<<endl<<s.getSubject(s.getSubcode()[i])<<": "<<s.getMarks()[i]<<endl<<endl;
+					}
+					break;
+				case 54:
+					if(subTopper[9]==s.getMarks()[i])	{
+						cout<<s.getSubject(s.getSubcode()[i])<<" Topper: "<<endl;
+						cout<<s.getName()<<":"<<endl<<s.getSubject(s.getSubcode()[i])<<": "<<s.getMarks()[i]<<endl<<endl;
+					}
+					break;
+				case 30:
+					if(subTopper[3]==s.getMarks()[i])	{
+						cout<<s.getSubject(s.getSubcode()[i])<<" Topper: "<<endl;
+						cout<<s.getName()<<":"<<endl<<s.getSubject(s.getSubcode()[i])<<": "<<s.getMarks()[i]<<endl<<endl;
+					}
+					break;
+				case 27:
+					if(subTopper[0]==s.getMarks()[i])	{
+						cout<<s.getSubject(s.getSubcode()[i])<<" Topper: "<<endl;
+						cout<<s.getName()<<":"<<endl<<s.getSubject(s.getSubcode()[i])<<": "<<s.getMarks()[i]<<endl<<endl;
+					}
+					break;
+				case 28:
+					if(subTopper[1]==s.getMarks()[i])	{
+						cout<<s.getSubject(s.getSubcode()[i])<<" Topper: "<<endl;
+						cout<<s.getName()<<":"<<endl<<s.getSubject(s.getSubcode()[i])<<": "<<s.getMarks()[i]<<endl<<endl;
+					}
+					break;
+				case 29:
+					if(subTopper[2]==s.getMarks()[i])	{
+						cout<<s.getSubject(s.getSubcode()[i])<<" Topper: "<<endl;
+						cout<<s.getName()<<":"<<endl<<s.getSubject(s.getSubcode()[i])<<": "<<s.getMarks()[i]<<endl<<endl;
+					}
+					break;
+				case 55:
+					if(subTopper[10]==s.getMarks()[i])	{
+						cout<<s.getSubject(s.getSubcode()[i])<<" Topper: "<<endl;
+						cout<<s.getName()<<":"<<endl<<s.getSubject(s.getSubcode()[i])<<": "<<s.getMarks()[i]<<endl<<endl;
+					}
+					break;
+				case 48:
+					if(subTopper[8]==s.getMarks()[i])	{
+						cout<<s.getSubject(s.getSubcode()[i])<<" Topper: "<<endl;
+						cout<<s.getName()<<":"<<endl<<s.getSubject(s.getSubcode()[i])<<": "<<s.getMarks()[i]<<endl<<endl;
+					}
+					break;
+				case 2:
+					if(subTopper[14]==s.getMarks()[i])	{
+						cout<<s.getSubject(s.getSubcode()[i])<<" Topper: "<<endl;
+						cout<<s.getName()<<":"<<endl<<s.getSubject(s.getSubcode()[i])<<": "<<s.getMarks()[i]<<endl<<endl;
+					}
+					break;
+			}
+		}
+	}
 	ifs.close();
 }
 
